@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: lightblue;
 }
 a:hover {
   color: #6633ff;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: yellow;
+  color: lightblue;
 }
 .card {
   margin: 30px;
